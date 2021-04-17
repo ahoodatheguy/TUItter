@@ -9,7 +9,7 @@ I'm a high school student learning Java for my intro to programming class. That 
 
 That being said, I would be grateful if anyone proficient in java were to contribute to the project.
 
-#How to Use
+# How to Use
 1. Obtain Twitter API keys.
 2. Enter API keys into Strings in the userInfo.java file.
 3. Enjoy tweeting.
