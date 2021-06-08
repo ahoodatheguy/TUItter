@@ -1,8 +1,8 @@
 # TUItter.
 A W.I.P twitter client that works entirely in your terminal.
 
-## Switching to Python.
-This branch is for the migration of the TUItter program to python. In order to run the program, you need to install a few libraries. 
+## Python Libraries
+In order to run the program, you need to install a few libraries. 
 
 Run:
 ```
