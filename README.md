@@ -11,4 +11,4 @@ pip3 install tweepy
 ```
 in your terminal to install the required libraries.
 
-From there, it's just a matter of running ``python3 main.py`` to run the client!
+From there, it's just a matter adding your keys to the keys.json file and running ``python3 main.py`` to run the client!
