@@ -7,7 +7,7 @@ In order to run the program, you need to install a few libraries.
 Run:
 ```
 pip3 install rich
-pip3 install tweepy
+pip3 install npyscreen
 ```
 in your terminal to install the required libraries.
 
